@@ -43,6 +43,18 @@ Provides deeper analysis using interactive slicers and visualizations for:
 - Education
 - Marital Status
 
+## 📸 Dashboard Preview
+
+### Main Dashboard
+
+<img width="1348" height="751" alt="image" src="https://github.com/user-attachments/assets/ba1acbfa-1771-451d-ac51-573557172b5d" />
+
+
+### Detailed Analysis
+
+<img width="1356" height="753" alt="image" src="https://github.com/user-attachments/assets/a4ec8147-c33c-448a-9b4b-90e23f278e59" />
+
+
 ## 🔍 Key Analysis Areas
 
 - Credit Score and default risk
